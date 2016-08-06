@@ -1,5 +1,5 @@
 # phenol-Hd
-Analytical Quasi-diabatic Hamiltonians for the First Two electronic States of Phenol
+Analytical Quasi-diabatic Hamiltonians for the first four electronic States of Phenol
 
 This contains surfgen input files both shifted and unshifted version of phenol coupled potential energy surfaces for
 the OH photodissociation process.  The coupled PESs are constructed from second order MRCI calculations and describes
